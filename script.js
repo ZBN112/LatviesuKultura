@@ -127,7 +127,7 @@ document.addEventListener('DOMContentLoaded', function () {
     function endGame() {
       document.getElementById('game').style.display = 'none';
       const summary = responses.map((response, index) => 
-        `Question ${index + 1}: ${response.question} <br> Correct answer: ${response.correctAnswer} <br> Your response: ${response.responseCorrect ? '✅' : '❌'}`).join('<br><br>');
+        `Jautājums ${index + 1}: ${response.question} <br> Pareizā atbilde: ${response.correctAnswer} <br> Jūsu atbilde: ${response.responseCorrect ? '✅' : '❌'}`).join('<br><br>');
       
       document.getElementById('result').style.display = 'block';
       document.getElementById('score').innerHTML = `Quiz Summary:<br><br>${summary}`;
