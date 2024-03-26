@@ -1,0 +1,61 @@
+html, body {
+    height: 100%; /* Make sure the body takes up the full height of the page */
+    margin: 0; /* Remove default margin */
+    padding: 0; /* Remove default padding */
+  }
+  
+  body {
+    background-image: url(background.jpg); /* Path to your image */
+    background-size: cover; /* Cover the entire page */
+    background-position: center; /* Center the background image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-attachment: fixed; /* Keep the background image fixed during scrolling */
+  }
+  
+  h1 {
+    font-weight: 700;
+    border-bottom: 2px solid #800000; /* Maroon underline for the title */
+    padding-bottom: 10px;
+  }
+  
+  #options .btn {
+    margin-right: 10px; /* Spacing between buttons */
+  }
+  
+  #options {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+  
+  
+  .btn-outline-dark {
+    border-color: #800000; /* Maroon borders for control buttons */
+    color: #800000; /* Maroon text for control buttons */
+  }
+  
+  .btn-outline-dark:hover {
+    background-color: #800000; /* Maroon background on hover for control buttons */
+    color: #fff;
+  }
+  
+  .btn-success {
+    background-color: #006a4e; /* Green for correct answers, reflecting Latvian forests */
+  }
+  
+  .btn-danger {
+    background-color: #D00000; /* Brighter shade of red for wrong answers */
+  }
+  .btn-outline-primary {
+    border-color: red !important; /* Red border for the button */
+    color: red !important; /* Red text color */
+    min-width: 120px; /* Ensures a minimum width */
+    white-space: nowrap; /* Prevents wrapping and helps maintain size */
+}
+
+.btn-outline-primary:hover {
+    background-color: red !important; /* Red background on hover */
+    color: white !important; /* White text color on hover */
+}
+
+  
