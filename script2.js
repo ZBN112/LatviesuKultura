@@ -1,14 +1,22 @@
 document.addEventListener('DOMContentLoaded', function () {
     const questions = [
+               {
+  "text": "Kurš no šiem instrumentiem ir bieži sastopams Latvijas tautas mūzikā",
+  "options": ["Ģitāra", "Vijole", "Kokle", "Akordeons"],
+  "correct": 2,
+  "image": "path/to/image.jpg"
+},
+        {
+  "text": "Kurš no šiem latviešu koriem ir pazīstams ar savu iespaidīgo dalībnieku skaitu",
+  "options": ["Koris Maska", "Dziesmu svētku koris", "Kamerkoris Ave Sol", "Jauniešu koris Balsis"],
+  "correct": 1,
+  "image": "path/to/image.jpg"
+},
+
+
                 {
-                  "text": "Kura no šīm tradicionālajām Latvijas mūzikas instrumentu grupām ietver kokles, dūdas un stabules?",
-                  "options": ["Kurpnieki", "Līgo", "Dziedātāji", "Pūtēji"],
-                  "correct": 0,
-                  "image": "path/to/image.jpg"
-                },
-                {
-                  "text": "Kā sauc Latvijas folkloras dziesmu un deju svētku vadošo koru, kas ieguvis ierakstu Guinessa rekordu grāmatā?",
-                  "options": ["Jāzeps Vītols", "Dziesmu svētku koris", "Latvijas Radio koris", "Sōla"],
+                  "text": "Kā sauc Latviešu kori, kas ieguvis ierakstu Guinessa rekordu grāmatā?",
+                  "options": ["Vītola jauktais koris", "Dziesmu svētku koris", "Latvijas Radio koris", "Svētku koris"],
                   "correct": 1,
                   "image": "path/to/image.jpg"
                 },
@@ -43,7 +51,7 @@ document.addEventListener('DOMContentLoaded', function () {
                   "image": "path/to/image.jpg"
                 },
                 {
-                  "text": "Kura no šīm Latvijas dziedātājām ir ieguvusi godalgas starptautiskajās mūzikas konkursos, ieskaitot 'Viņa iekļuva Vecrīgas Jāņos'?",
+                  "text": "Kurš no šiem Latvijas dziedātājiem ir ieguvuši balvas starptautiskajās mūzikas konkursos",
                   "options": ["Līgo", "Lauris Reiniks", "Marģeris Zariņš", "Liene Āboliņa"],
                   "correct": 3,
                   "image": "path/to/image.jpg"
