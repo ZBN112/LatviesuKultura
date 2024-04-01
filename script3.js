@@ -19,7 +19,7 @@ document.addEventListener('DOMContentLoaded', function () {
               "image": "path/to/image.jpg"
             },
             {
-              "text": "Kurā gadā Rīga kļuva par Eiropas kultūras galvaspilsētu, kas veicināja mākslas un kultūras projektus visā pilsētā?",
+              "text": "Kurā gadā Rīga kļuva par Eiropas kultūras galvaspilsētu",
               "options": ["2014", "2012", "2008", "2016"],
               "correct": 0,
               "image": "path/to/image.jpg"
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', function () {
               "image": "path/to/image.jpg"
             },
             {
-              "text": "Kura mākslas forma ir īpaši attīstīta Latgalē, izmantojot vietējo mālu un senas keramikas tehnikas?",
+              "text": "Kura mākslas forma ir īpaši attīstīta Latgalē, izmantojot vietējo mālu un senas tehnikas?",
               "options": ["Stikla pūšana", "Keramika", "Tekstilmāksla", "Eglīšu zīmēšana"],
               "correct": 1,
               "image": "path/to/image.jpg"
@@ -43,7 +43,7 @@ document.addEventListener('DOMContentLoaded', function () {
               "image": "path/to/image.jpg"
             },
             {
-              "text": "Kurš latviešu tēlnieks ir zināms ar monumentālo skulptūru 'Mātes Latvija' radīšanu?",
+              "text": "Kurš latviešu tēlnieks ir zināms ar skulptūras 'Mātes Latvija' radīšanu?",
               "options": ["Kārlis Zāle", "Teodors Zaļkalns", "Gustavs Šķilters", "Aigars Bikše"],
               "correct": 0,
               "image": "path/to/image.jpg"
@@ -56,9 +56,9 @@ document.addEventListener('DOMContentLoaded', function () {
             },
             {
             "text": "Kura no šīm tehnikām ir izmantota latviešu tautas mākslā, īpaši izšūšanā un audumā?",
-    "options": ["Krāsošana", "Apgleznošana", "Dzelzs kalšana", "Krāsainu dziju izmantošana"],
-    "correct": 3,
-    "image": "path/to/image.jpg"
+            "options": ["Krāsošana", "Apgleznošana", "Dzelzs kalšana", "Krāsainu dziju izmantošana"],
+            "correct": 3,
+            "image": "path/to/image.jpg"
   }
              
           
