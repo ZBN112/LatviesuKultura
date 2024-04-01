@@ -52,7 +52,7 @@ document.addEventListener('DOMContentLoaded', function () {
             {
               "text": "Kurš latviešu dzejnieks ir zināms ar savu darbu 'Daugava'?",
               "options": ["Ojārs Vācietis", "Jānis Rainis", "Knuts Skujenieks", "Aleksejs Apīnis"],
-              "correct": 2,
+              "correct": 1,
               "image": "path/to/image.jpg"
             },
             {
