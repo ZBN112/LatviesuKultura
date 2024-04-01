@@ -48,7 +48,7 @@ document.addEventListener('DOMContentLoaded', function () {
   "options": ["'Māsa Kerija'", "'Zelta zirgs'", "'Jūras akmentiņi'", "'Divi zvaigžņu mirkļi'"],
   "correct": 3,
   "image": "path/to/image.jpg"
-}
+},
 
 
             {
