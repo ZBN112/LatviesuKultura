@@ -43,12 +43,13 @@ document.addEventListener('DOMContentLoaded', function () {
               "correct": 0,
               "image": "path/to/image.jpg"
             },
-            {
-  "text": "Kurš no šiem darbiem ir viens no slavenākajiem latviešu literatūras darbiem, kas stāsta par latviešu tautas dzīvi un cīņām?",
-  "options": ["'Lāčplēsis'", "'Purva bridējs'", "'Zaļā dziesma'", "'Mērnieku laiki'"],
-  "correct": 0,
+       {
+  "text": "Kura grāmata ir dzejnieku Raina un Aspazijas sarunu krājums par mīlestību, brīvību un mākslu, kas publicēts 1920. gadā?",
+  "options": ["'Māsa Kerija'", "'Zelta zirgs'", "'Jūras akmentiņi'", "'Divi zvaigžņu mirkļi'"],
+  "correct": 3,
   "image": "path/to/image.jpg"
-},
+}
+
 
             {
               "text": "Kāds tradicionāls ēdiens ir populārs Latvijā Ziemassvētku vakariņās?",
