@@ -1,20 +1,18 @@
 document.addEventListener('DOMContentLoaded', function () {
     const questions = [
                {
-  "text": "Kurš no šiem instrumentiem ir bieži sastopams Latvijas tautas mūzikā",
-  "options": ["Ģitāra", "Vijole", "Kokle", "Akordeons"],
-  "correct": 2,
-  "image": "path/to/image.jpg"
-},
-        {
-  "text": "Kurš no šiem latviešu koriem ir pazīstams ar savu iespaidīgo dalībnieku skaitu",
-  "options": ["Koris Maska", "Dziesmu svētku koris", "Kamerkoris Ave Sol", "Jauniešu koris Balsis"],
-  "correct": 1,
-  "image": "path/to/image.jpg"
-},
-
-
-                {
+                  "text": "Kurš no šiem instrumentiem ir bieži sastopams Latvijas tautas mūzikā",
+                  "options": ["Ģitāra", "Vijole", "Kokle", "Akordeons"],
+                  "correct": 2,
+                  "image": "path/to/image.jpg"
+                },
+            {
+                  "text": "Kurš no šiem latviešu koriem ir pazīstams ar savu iespaidīgo dalībnieku skaitu",
+                  "options": ["Koris Maska", "Dziesmu svētku koris", "Kamerkoris Ave Sol", "Jauniešu koris Balsis"],
+                  "correct": 1,
+                  "image": "path/to/image.jpg"
+                },
+            {
                   "text": "Kā sauc Latviešu kori, kas ieguvis ierakstu Guinessa rekordu grāmatā?",
                   "options": ["Vītola jauktais koris", "Dziesmu svētku koris", "Latvijas Radio koris", "Svētku koris"],
                   "correct": 1,
@@ -26,12 +24,13 @@ document.addEventListener('DOMContentLoaded', function () {
                   "correct": 0,
                   "image": "path/to/image.jpg"
                 },
-                {
-                  "text": "Kura no šīm Latvijas pilsētām ir pazīstama ar savu mūzikas festivālu 'Positivus'?",
-                  "options": ["Rīga", "Jūrmala", "Liepāja", "Ventspils"],
+              {
+                  "text": "Kurā Latvijas pilsētā notiek populārais mūzikas festivāls 'Positivus'?",
+                    "options": ["Rīga", "Jūrmala", "Salacgrīva", "Ventspils"],
                   "correct": 2,
                   "image": "path/to/image.jpg"
                 },
+
                 {
                   "text": "Kura no šīm Latvijas mūzikas grupām ir ieguvusi prestižo Latvijas Mūzikas ierakstu gada balvu 'Zelta mikrofons'?",
                   "options": ["Prāta vētra", "Instrumenti", "Brainstorm", "Pienvedēja piedzīvojumi"],
