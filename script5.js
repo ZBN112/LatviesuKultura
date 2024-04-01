@@ -9,18 +9,18 @@ document.addEventListener('DOMContentLoaded', function () {
             },
             {
               "text": "Kā sauc tradicionālo Latvijas rotu, kas simbolizē dzīvības un saules enerģiju?",
-              "options": ["Sakta", "Namejs gredzens", "Lielvārdes josta", "Krūšu rotas"],
+              "options": ["Sakta", "Nameja gredzens", "Lielvārdes josta", "Kuloni"],
+              "correct": 1,
+              "image": "path/to/image.jpg"
+            },
+          {
+              "text": "Kāds pasākums Latvijā katru piecu gadu pulcē kopā tūkstošiem dziedātāju un dejotāju no visas valsts, lai demonstrētu latviešu kultūras mantojumu?",
+              "options": ["Rīgas festivāls", "Dziesmu un deju svētki", "Līgo svētki", "Starptautiskais folkloras festivāls"],
               "correct": 1,
               "image": "path/to/image.jpg"
             },
             {
-              "text": "Kura no šīm ir sena latviešu tradīcija, kas tiek praktizēta ziemas saulgriežos, lai veicinātu auglību un labklājību?",
-              "options": ["Pūķu laišana", "Bobu vārīšana", "Mumming", "Ledus peldēšana"],
-              "correct": 2,
-              "image": "path/to/image.jpg"
-            },
-            {
-              "text": "Kura Latvijas pilsēta ir slavena ar savu gadskārtējo keramikas tirgu?",
+              "text": "Kura Latvijas pilsēta ir slavena ar savu  keramikas tirgu?",
               "options": ["Rundāle", "Kuldīga", "Sigulda", "Cēsis"],
               "correct": 1,
               "image": "path/to/image.jpg"
@@ -44,23 +44,25 @@ document.addEventListener('DOMContentLoaded', function () {
               "image": "path/to/image.jpg"
             },
             {
-              "text": "Kā sauc Latvijā plaši svinēto svētku dienu, kas veltīta sievietēm un mātēm?",
-              "options": ["Sieviešu diena", "Mātes diena", "Starptautiskā sieviešu diena", "Valentīna diena"],
-              "correct": 1,
-              "image": "path/to/image.jpg"
-            },
+  "text": "Kurš no šiem darbiem ir viens no slavenākajiem latviešu literatūras darbiem, kas stāsta par latviešu tautas dzīvi un cīņām?",
+  "options": ["'Lāčplēsis'", "'Purva bridējs'", "'Zaļā dziesma'", "'Mērnieku laiki'"],
+  "correct": 0,
+  "image": "path/to/image.jpg"
+},
+
             {
               "text": "Kāds tradicionāls ēdiens ir populārs Latvijā Ziemassvētku vakariņās?",
               "options": ["Pīrāgi", "Zirņi ar speķi", "Kūpināta zivs", "Pelēkie zirņi ar šķiņķi"],
               "correct": 3,
               "image": "path/to/image.jpg"
             },
-            {
-              "text": "Kurā no šiem Latvijas tradicionālajiem pasākumiem tiek godināta gaismas un uguns nozīme?",
-              "options": ["Staro Rīga", "Līgo svētki", "Jāņi", "Meteņi"],
-              "correct": 0,
-              "image": "path/to/image.jpg"
-            }
+        {
+  "text": "Kurš no šiem ēdieniem ir tradicionāls Latvijas Jāņu svētku ēdiens?",
+  "options": ["Jāņu siers", "Pelēkie zirņi ar speķi", "Skābēti kāposti", "Pīrāgi"],
+  "correct": 0,
+  "image": "path/to/image.jpg"
+}
+
           
           
           ]
