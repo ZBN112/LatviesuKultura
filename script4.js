@@ -2,7 +2,7 @@ document.addEventListener('DOMContentLoaded', function () {
     const questions = [
         
             {
-              "text": "Kurš ir uzskatāms par pirmo nozīmīgo latviešu kino režisoru, kurš darbojās 20. gadsimta sākumā?",
+              "text": "Kurš ir uzskatāms par pirmo nozīmīgo latviešu kino režisoru",
               "options": ["Sergejs Eizenšteins", "Aleksandrs Hertz", "Laila Pakalniņa", "Herberts Rappaports"],
               "correct": 1,
               "image": "path/to/image.jpg"
@@ -13,24 +13,26 @@ document.addEventListener('DOMContentLoaded', function () {
               "correct": 0,
               "image": "path/to/image.jpg"
             },
-            {
-              "text": "Kāds ir nosaukums filmai, kas saņēma 'Lielo Kristapu' par labāko pilnmetrāžas spēlfilmu 2019. gadā?",
+           {
+              "text": "Kura filma ieguva 2019. gada 'Lielo Kristapu' kā labākā pilnmetrāžas spēlfilma?",
               "options": ["'Dvēseļu putenis'", "'Oļegs'", "'Blakus'", "'Tēvs Nakts'"],
-              "correct": 3,
+              "correct": 1,
               "image": "path/to/image.jpg"
             },
+
             {
               "text": "Kurš kinoteātris Rīgā ir pazīstams kā viens no senākajiem un vēsturiski nozīmīgākajiem?",
               "options": ["Splendid Palace", "Kino Citadele", "Cinema Riga", "Forum Cinemas"],
               "correct": 0,
               "image": "path/to/image.jpg"
             },
-            {
-              "text": "Kura no šīm Latvijas filmām ir ieguvusi starptautisku atzinību un vairākas balvas ārvalstu filmu festivālos?",
+           {
+              "text": "Kura Latvijas filma ir saņēmusi starptautisko atzinību un vairākas balvas filmu festivālos visā pasaulē?",
               "options": ["'Melānijas hronika'", "'Četri balti krekli'", "'Mans draugs - nenopietns cilvēks'", "'Es esmu šeit'"],
               "correct": 1,
               "image": "path/to/image.jpg"
             },
+
             {
               "text": "Kā sauc Latvijas kinematogrāfistu, kurš ir pazīstams ar savām dokumentālajām filmām par Latvijas dabu?",
               "options": ["Ivars Seleckis", "Uldis Brauns", "Dzintra Geka", "Jānis Cimmermanis"],
@@ -39,7 +41,7 @@ document.addEventListener('DOMContentLoaded', function () {
             },
             {
               "text": "Kāda ir pirmā Latvijas animācijas filma, kas tika radīta?",
-              "options": ["'Lote no Izgudrotāju ciema'", "'Ķepu-ķepā'", "'Leģenda par Zaļo jumpravu'", "'Varonis'"],
+              "options": ["'Lote no Izgudrotāju ciema'", "'Lietaina diena'", "'Leģenda par Zaļo jumpravu'", "'Varonis'"],
               "correct": 1,
               "image": "path/to/image.jpg"
             },
@@ -49,12 +51,13 @@ document.addEventListener('DOMContentLoaded', function () {
               "correct": 0,
               "image": "path/to/image.jpg"
             },
-            {
-              "text": "Kura no šīm filmām iezīmēja jaunu lappusi Latvijas kino vēsturē, ieviešot modernās kinematogrāfijas elementus?",
-              "options": ["'Āboliņš dzīvo'", "'Nāves ēnā'", "'Elpojiet dziļi'", "'Is it Easy to be Young?'"],
-              "correct": 3,
-              "image": "path/to/image.jpg"
-            }
+         {
+  "text": "Kura filma atzīmēja pārmaiņas Latvijas kinematogrāfijā, ieviešot modernus kinematogrāfijas paņēmienus?",
+  "options": ["'Āboliņš dzīvo'", "'Nāves ēnā'", "'Elpojiet dziļi'", "'Is it Easy to be Young?'"],
+  "correct": 3,
+  "image": "path/to/image.jpg"
+}
+
            
           ]
           
