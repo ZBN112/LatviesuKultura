@@ -6,11 +6,11 @@ document.addEventListener('DOMContentLoaded', function () {
               correct: 1,
               image: "path/to/image.jpg"
             },
-            {
-              text: "Kuru sastāvdaļu uzskata par Latvijas virtuves 'melnajiem zeltam', bieži atrastu tradicionālās receptēs?",
-              options: ["Rupjmaize", "Kūpināta zivs", "Kūpināts speķis", "Meža sēnes"],
-              correct: 3,
-              image: "path/to/image.jpg"
+           {
+              "text": "Kas tiek dēvēts par Latvijas virtuves klasiku un bieži tiek izmantots ēdienos?",
+              "options": ["Rupjmaize", "Kūpināta zivs", "Kūpināts speķis", "Meža sēnes"],
+                "correct": 3,
+                  "image": "path/to/image.jpg"
             },
             {
               text: "Kā sauc tradicionālo Latvijas dzērienu, kas tiek gatavots, fermentējot maizi?",
@@ -30,17 +30,18 @@ document.addEventListener('DOMContentLoaded', function () {
               correct: 1,
               image: "path/to/image.jpg"
             },
-            {
-              text: "Kā sauc seno Latvijas ēdienu, kas datējams ar 7. gadsimtu un ir gatavots no miežiem un fermentētiem piena produktiem?",
-              options: ["Sklandrausis", "Asins pankūkas", "Biezpiena sieriņš", "Skābputra"],
-              correct: 3,
-              image: "path/to/image.jpg"
+         {
+              "text": "Kāds ir vecs Latvijas ēdiens no 7. gadsimta, kas tiek gatavots no miežiem un skābpiena?",
+              "options": ["Sklandrausis", "Asins pankūkas", "Biezpiena sieriņš", "Skābputra"],
+              "correct": 3,
+              "image": "path/to/image.jpg"
             },
-            {
-              text: "Kāda unikāla Latvijas kulīnārā tehnika ietver ēdiena gatavošanu zem zemes?",
-              options: ["Pirts", "Kūpināšana", "Zemnieku brokastis", "Zirņi ar speķi"],
-              correct: 0,
-              image: "path/to/image.jpg"
+
+          {
+              "text": "Kāda unikāla Latvijas kulīnārā tehnika ietver ēdiena gatavošanu zem zemes?",
+              "options": ["Zemes ceplis", "Kūpināšana", "Lēna gatavošana", "Vārīšana tvaikā"],
+              "correct": 0,
+              "image": "path/to/image.jpg"
             },
             {
               text: "Kuru mežā un pļavās lasāmo augu Latvijā izmanto gan salātos, gan kā tēju?",
